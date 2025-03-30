@@ -1,4 +1,4 @@
-//Checking the type of variable in use
+//Checking the dnamic property of JS
 let firstName = "Mesh";
 console.log(typeof firstName);
 
