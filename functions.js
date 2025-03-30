@@ -1,8 +1,9 @@
-//function sayHello() {
-//    console.log('Hi')
-//}
+// A simple function in JS
+function sayHello() {
+    console.log('Hi')
+}
 
-//sayHello();
+sayHello();
 
 //Adding a parameter variable: name
 function sayHello(name) {
