@@ -3,7 +3,7 @@ let course = {
     hours: 4
 };
 
-// name is the KEY, "Meshack" is the value
+//name is the KEY, "Meshack" is the value
 console.log(course);
 
 //Ways to output the value of the key
