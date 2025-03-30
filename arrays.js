@@ -7,7 +7,7 @@ console.log(colours[1]);
 console.log(colours[2]);
 
 //Changing values in arrays
-colours[2] = 'Yellow';
+colours[2] = 'Yellow'; //Changing the value of [2] from 'Green' to 'Yellow'
 console.log(colours[0]);
 console.log(colours[1]);
 console.log(colours[2]);
