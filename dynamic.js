@@ -1,3 +1,4 @@
+//Checking the type of variable in use
 let firstName = "Mesh";
 console.log(typeof firstName);
 
