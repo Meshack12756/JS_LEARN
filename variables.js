@@ -1,3 +1,4 @@
+//Types of variables
 let myName = "Meshack"; // string
 let favFood = "Fish";
 let favProgLanguage = "Javascript";
@@ -18,7 +19,7 @@ let uniqueKey = Symbol(); // Symbol
 let course = {
     name: "Advanced Calculus",
     duration: 4
-}; 
+}; // Object
 
 
 
